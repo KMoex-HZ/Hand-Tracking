@@ -2,7 +2,7 @@
 
 Sebuah prototipe computer vision sederhana yang mampu melacak pergerakan tangan dan mengenali gestur dasar secara langsung dari feed webcam. Proyek ini dibangun untuk mengeksplorasi sistem interaksi manusia-komputer (Human-Computer Interaction) yang intuitif.
 
-![Demo Pelacakan Tangan]([https://via.placeholder.com/700x400.png?text=Letakkan+GIF+Demo+Proyek+Kamu+di+Sini](https://github.com/KMoex-HZ/Hand-Tracking/blob/main/demo.gif?raw=true))
+![Demo Pelacakan Tangan](https://github.com/KMoex-HZ/Hand-Tracking/blob/main/demo.gif?raw=true)
 
 ---
 
